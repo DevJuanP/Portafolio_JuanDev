@@ -1,12 +1,47 @@
-# React + Vite
+# 🚀 Portafolio de Juan Pajuelo Chipana
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Hola! Soy **Juan Pajuelo Chipana** y este es mi portafolio web, donde muestro mis habilidades y proyectos enfocados principalmente en el **desarrollo backend**.
 
-Currently, two official plugins are available:
+## 🧑‍💻 Sobre mí
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Soy un apasionado del desarrollo de software, con un enfoque en el backend, aunque también tengo conocimientos de **React** para el desarrollo frontend. Actualmente, sigo aprendiendo y fortaleciendo mis habilidades día a día.
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Backend:** Node.js, Express.js, bases de datos SQL y NoSQL
+- **Frontend:** React, HTML, CSS
+- **Herramientas:** Git, GitHub, Vite
+
+## 📁 Proyectos destacados
+
+1. **API REST para gestión de usuarios** — Un servicio completo con autenticación JWT.
+2. **Sistema de blogs** — Backend con Node.js y base de datos MongoDB.
+3. **Portafolio web** — Este sitio, creado con React y Vite.
+
+## 🚧 Instalación y ejecución
+
+Para correr este proyecto localmente:
+
+```bash
+# Clona el repositorio
+git clone https://github.com/tuusuario/tu-repo.git
+
+# Entra al directorio
+cd nombre-del-proyecto
+
+# Instala las dependencias
+npm install
+
+# Ejecuta el proyecto
+npm run dev
+```
+
+## 📬 Contacto
+
+- **Correo:** [juanpajuelo@example.com](mailto\:juanpajuelo@example.com)
+- **GitHub:** [Mi perfil](https://github.com/tuusuario)
+- **LinkedIn:** [Mi LinkedIn](https://linkedin.com/in/tuusuario)
+
+---
+
+¡Gracias por visitar mi portafolio! ✨
